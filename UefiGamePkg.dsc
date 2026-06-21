@@ -12,4 +12,5 @@
   UefiGamePkg/FallToBoot/FallToBoot.inf
   UefiGamePkg/AgeVerification/AgeVerification.inf
   UefiGamePkg/UEFISays/UEFISays.inf
+  UefiGamePkg/BadApple/BadApple.inf
 
